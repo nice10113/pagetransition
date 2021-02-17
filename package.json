@@ -1,0 +1,16 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "devDependencies": {
+    "animejs": "^3.2.1",
+    "gsap": "^3.6.0",
+    "jquery": "^3.5.1",
+    "matter": "^0.2.0",
+    "parcel": "^1.12.4"
+  }
+}
